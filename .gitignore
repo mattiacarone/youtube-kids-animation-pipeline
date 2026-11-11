@@ -1,0 +1,9 @@
+.browser_session/
+__pycache__/
+*.mp4
+*.wav
+*.mp3
+output/
+ep01_landscape/
+ep02_landscape/
+assets/
